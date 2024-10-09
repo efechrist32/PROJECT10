@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+}
+a:hover{
+    color: antiquewhite;
+    background-color: blue;
+}
+footer{
+    text-indent: 90%;
+}
+li{
+    color: red;
+}
+li + li{
+    color: orange;
+}
+li + li + li{
+    color: yellow;
+}
+li + li + li + li{
+    color: green;
+}
+li + li + li + li + li{
+    color: blue;
+}
+li + li + li + li + li + li{
+    color: purple;
+}
+ul{
+    font-size: 20px;
+    font-weight: bolder;
+}
+#p::before{
+    content: "DON'T CALL: "
+}

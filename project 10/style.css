@@ -1,0 +1,19 @@
+a:hover{
+    color: antiquewhite;
+    background-color: blue;
+}
+li:nth-child(1){
+    background-color: red;
+}
+li:nth-child(2){
+    background-color: yellow;
+}
+li:nth-child(3){
+    background-color: green;
+}
+body{
+    background-color: aqua;
+}
+footer{
+    text-indent: 85%;
+}
